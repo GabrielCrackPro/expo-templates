@@ -2,12 +2,6 @@
 
 Template starter with React Navigation Bottom Tabs
 
-# Preview
-
-![../media/bottomtabs.gif](../media/bottomtabs.gif | width=200)
-
-# Installation
-
 1. Install [node.js](https://nodejs.org/en/)
 2. Install Expo
 
